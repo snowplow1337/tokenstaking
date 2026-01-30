@@ -1,0 +1,8 @@
+[programs.localnet]
+staking_program = "Stake11111111111111111111111111111111111111"
+
+[features]
+seeds = false
+
+[registry]
+url = "https://anchor.projectserum.com"
