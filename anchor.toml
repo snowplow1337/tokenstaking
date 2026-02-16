@@ -1,5 +1,5 @@
 [programs.localnet]
-staking_program = "Stake111111111111111111111113333311111111111"
+staking_program = "Stake1111111111111111111112222113333311111111111"
 
 [features]
 seeds = false
